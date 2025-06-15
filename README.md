@@ -1,16 +1,48 @@
-## Hi there 👋
+# Jay Bontawar
 
-<!--
-**jay26027894/jay26027894** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Web Developer **
 
-Here are some ideas to get you started:
+> **Empowering brands through the web** — from pixel-perfect UIs to robust backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👋 About Me
+
+I’m Jay, a passionate web developer based in Maharashtra, India. I love crafting responsive, user-friendly applications and leading teams to bring tech ideas to life.
+
+---
+
+### 🛠️ Skills
+
+* **Frontend:** HTML5, CSS3, JavaScript, Tailwind CSS, React.js
+* **Backend & CMS:** Node.js, Express, Firebase, WordPress
+* **Tools & Deployment:** Git, GitHub, Vercel, Netlify
+* **Soft Skills:** Leadership, Team Building, Event Management
+
+---
+
+### 💼 Experience
+
+* **Web Development Intern** • iSparx Infotech | *Sep 2024 – Oct 2024*
+
+---
+
+### 🚀 Projects
+
+* **CaptionCraft**: AI-driven app for social media captions (React, Tailwind, Node.js)
+* **NewsNest**: Real-time news aggregator with clean UI (HTML, Tailwind, APIs)
+* **iTask**: Task management tool with React & Vite
+* **Dish Delight**: Recipe platform featuring 48+ dishes (HTML, CSS, JS)
+* **iSparx Website**: Corporate WordPress site with chatbot & SEO
+
+---
+
+### 📬 Connect with Me
+
+* **LinkedIn:** [jay-bontawar](https://www.linkedin.com/in/jay-bontawar/)
+* **Email:** [jaybontawar33@gmail.com](mailto:jaybontawar33@gmail.com)
+* **Portfolio:** [https://your-portfolio-url.com](https://your-portfolio-url.com)
+
+---
+
+*Built with ❤️ by Jay*
