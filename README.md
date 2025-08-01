@@ -16,13 +16,13 @@
 
 <img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Flag%20India.png" alt="India Flag" width="25" height="25" />. I specialize in building responsive, scalable, and delightful web applications. Always eager to learn, experiment, and ship meaningful tech.
+Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India** I specialize in building responsive, scalable, and delightful web applications. Always eager to learn, experiment, and ship meaningful tech.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Seedling.png" alt="Seedling" width="25" height="25" /> Currently learning **AI integrations** and **backend APIs**
+-> Currently learning **AI integrations** and **backend APIs**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Working on **AI-powered productivity apps**
+-> Working on **AI-powered productivity apps**
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" alt="Brain" width="25" height="25" /> Exploring **Digital Twin systems**
+-> Exploring **Digital Twin systems**
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="25" height="25" /> Reach me at: **jaybontawar33@gmail.com**
 
@@ -30,7 +30,7 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="35" height="35" /> Connect with Me
+🌐 Connect with Me
 
 <div align="center">
 
@@ -174,7 +174,7 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="35" height="35" /> Current Status
+🔥🔥 Current Status
 
 <div align="center">
 
@@ -204,24 +204,20 @@ const jay = {
 <tr>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="50" height="50"/><br>
-**Coffee Enthusiast**<br>
+Coffee Enthusiast<br>
 ☕ Fueled by caffeine
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Music" width="50" height="50"/><br>
-**Music Lover**<br>
+Music Lover<br>
 🎵 Coding with beats
 </td>
 <td align="center" width="25%">
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50"/><br>
-**Continuous Learner**<br>
+Continuous Learner<br>
 📚 Always exploring
 </td>
-<td align="center" width="25%">
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Gaming" width="50" height="50"/><br>
-**Gaming Enthusiast**<br>
-🎮 Strategy & RPGs
-</td>
+
 </tr>
 </table>
 
@@ -229,11 +225,11 @@ const jay = {
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" alt="Compass" width="35" height="35" /> Visitor Counter
+🧮 Visitor Counter
 
 <div align="center">
 
-<img src="https://visitcount.itsvg.in/api?id=jay26027894&icon=5&color=00FFBF" />
+
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
@@ -248,7 +244,7 @@ const jay = {
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Red%20Heart.png" alt="Heart" width="25" height="25" /> Made with passion and lots of ☕
+💗💗 Made with passion and lots of ☕
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e93-ac08-05286d2a6b87.gif" alt="Coding GIF" width="200"/>
 
