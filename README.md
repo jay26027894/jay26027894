@@ -1,10 +1,10 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> Hey there! I'm Jay
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there! I'm Jay
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=💻+Web+Developer;🤗+React+%2B+Tailwind+Enthusiast;💖+Love+clean+UI+and+modern+UX;🚀+Building+cool+projects+everyday;🤖+AI+Integration+Explorer;🌟+Full-Stack+Developer)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=00FFBF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=120&lines=Web+Developer+%F0%9F%92%BB;React+%2B+Tailwind+Enthusiast+%F0%9F%A4%97;Love+clean+UI+and+modern+UX+%F0%9F%92%96;Building+cool+projects+everyday+%F0%9F%9A%80;AI+Integration+Explorer+%F0%9F%A4%96;Full-Stack+Developer+%F0%9F%8C%9F)
 
-<img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=jay26027894&color=00FFBF&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/jay26027894)
 
@@ -12,25 +12,25 @@
 
 ---
 
-## 👨‍💻 About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Man Technologist" width="35" height="35" /> About Me
 
-<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India** 🇮🇳. I specialize in building responsive, scalable, and delightful web applications. Always eager to learn, experiment, and ship meaningful tech.
+Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Flags/Flag%20India.png" alt="India Flag" width="25" height="25" />. I specialize in building responsive, scalable, and delightful web applications. Always eager to learn, experiment, and ship meaningful tech.
 
-🌱 Currently learning **AI integrations** and **backend APIs**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Nature/Seedling.png" alt="Seedling" width="25" height="25" /> Currently learning **AI integrations** and **backend APIs**
 
-🔭 Working on **AI-powered productivity apps**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telescope.png" alt="Telescope" width="25" height="25" /> Working on **AI-powered productivity apps**
 
-🧠 Exploring **Digital Twin systems**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Brain.png" alt="Brain" width="25" height="25" /> Exploring **Digital Twin systems**
 
-📫 Reach me at: **jaybontawar33@gmail.com**
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/E-Mail.png" alt="Email" width="25" height="25" /> Reach me at: **jaybontawar33@gmail.com**
 
 <br clear="right"/>
 
 ---
 
-## 🌐 Connect with Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" alt="Globe" width="35" height="35" /> Connect with Me
 
 <div align="center">
 
@@ -43,7 +43,7 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 
 ---
 
-## 💻 Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="35" height="35" /> Tech Stack
 
 <div align="center">
 
@@ -74,13 +74,11 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 
 </div>
 
-<div align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
-</div>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 ---
 
-## 🚀 Featured Projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="35" height="35" /> Featured Projects
 
 <div align="center">
 
@@ -88,7 +86,7 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 <tr>
 <td width="50%">
 
-### 🤖 DigiTwin (AI Productivity Hub)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="Robot" width="25" height="25" /> DigiTwin (AI Productivity Hub)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00FFBF?style=for-the-badge&logo=vercel&logoColor=white)](https://digi-twin.vercel.app)
 
 **Personalized productivity assistant with AI task planner, habit tracker, and journaling.**
@@ -100,7 +98,7 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 </td>
 <td width="50%">
 
-### 📸 CaptionCraft
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera" width="25" height="25" /> CaptionCraft
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00FFBF?style=for-the-badge&logo=netlify&logoColor=white)](https://caption-craft.vercel.app)
 
 **Create aesthetic AI-generated Instagram captions with emojis & mood tones.**
@@ -114,7 +112,7 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 <tr>
 <td width="50%">
 
-### 📰 NewsNest
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Newspaper.png" alt="Newspaper" width="25" height="25" /> NewsNest
 [![Live Demo](https://img.shields.io/badge/Live-Demo-00FFBF?style=for-the-badge&logo=vercel&logoColor=white)](https://newsnest-ai.vercel.app)
 
 **Smart news site with filters for World, Politics, Tech, and more.**
@@ -126,7 +124,7 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 </td>
 <td width="50%">
 
-### ⚙️ More Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> More Projects
 [![View All](https://img.shields.io/badge/View-All-00FFBF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jay26027894?tab=repositories)
 
 **Explore my complete collection of web applications, tools, and experiments.**
@@ -140,15 +138,17 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
 ---
 
-## 📊 GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="35" height="35" /> GitHub Stats
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">&nbsp;***My GitHub Journey***&nbsp;<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
 
-### 📈 **Analytics Dashboard**
+### 📊 **My GitHub Analytics**
 
 <table>
 <tr>
@@ -161,24 +161,22 @@ Hi, I'm **Jay**, a passionate full-stack web developer from **Maharashtra, India
 </tr>
 </table>
 
-### 🏆 **Most Used Languages**
+### 📈 **Most Used Languages**
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jay26027894&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffbf&text_color=ffffff&border_radius=15&langs_count=8" />
 
-### 🎯 **GitHub Trophies**
+### 🏆 **GitHub Trophies**
 <img src="https://github-profile-trophy.vercel.app/?username=jay26027894&theme=radical&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" />
 
-### 📈 **Contribution Graph**
+### 📊 **Contribution Graph**
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jay26027894&bg_color=0d1117&color=00ffbf&line=00ffbf&point=ff6b35&area=true&hide_border=true&border_radius=15" />
 
 </div>
 
 ---
 
-## 🔥 Current Status
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="Fire" width="35" height="35" /> Current Status
 
 <div align="center">
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500">
 
 ```javascript
 const jay = {
@@ -192,33 +190,35 @@ const jay = {
 };
 ```
 
+<img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Coding" width="400"/>
+
 </div>
 
 ---
 
-## 🎉 Fun Facts & Interests
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="Light Bulb" width="35" height="35" /> Fun Facts & Interests
 
 <div align="center">
 
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Hot%20Beverage.png" alt="Coffee" width="50" height="50"/><br>
 **Coffee Enthusiast**<br>
 ☕ Fueled by caffeine
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/qjqUcgIyRjsl2/giphy.gif" width="100"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Musical%20Note.png" alt="Music" width="50" height="50"/><br>
 **Music Lover**<br>
 🎵 Coding with beats
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="50" height="50"/><br>
 **Continuous Learner**<br>
 📚 Always exploring
 </td>
 <td align="center" width="25%">
-<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="100"/><br>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Video%20Game.png" alt="Gaming" width="50" height="50"/><br>
 **Gaming Enthusiast**<br>
 🎮 Strategy & RPGs
 </td>
@@ -229,13 +229,13 @@ const jay = {
 
 ---
 
-## 🧭 Visitor Counter
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Compass.png" alt="Compass" width="35" height="35" /> Visitor Counter
 
 <div align="center">
 
 <img src="https://visitcount.itsvg.in/api?id=jay26027894&icon=5&color=00FFBF" />
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="300">
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
 
 ### Thanks for visiting! Let's connect and build something amazing together! 🚀
 
@@ -248,18 +248,10 @@ const jay = {
 
 <div align="center">
 
-### ❤️ Made with passion and lots of ☕
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Red%20Heart.png" alt="Heart" width="25" height="25" /> Made with passion and lots of ☕
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWJvamowbjFmaTYzYmNydzE2d24xOWpvZTZvZGZjY2w4dWwxcWNjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Coding GIF" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e93-ac08-05286d2a6b87.gif" alt="Coding GIF" width="200"/>
 
 **"Code is like humor. When you have to explain it, it's bad." – Cory House**
-
-</div>
-
----
-
-<div align="center">
-
-### 🌟 Show some ❤️ by starring some of the repositories!
 
 </div>
