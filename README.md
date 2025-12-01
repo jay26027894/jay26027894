@@ -1,4 +1,4 @@
-[# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there! I'm Jay
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there! I'm Jay
 
 <div align="center">
 
@@ -180,13 +180,13 @@ Hi, I'm *Jay, a passionate full-stack web developer from **Maharashtra, India* I
 
 javascript
 const jay = {
-    location: "Maharashtra, India 🇮🇳",
-    currentFocus: "AI-powered web applications",
-    techStack: ["React", "Node.js", "MongoDB", "TailwindCSS"],
-    currentlyLearning: ["AI/ML Integration", "Advanced Backend APIs"],
-    funFact: "I debug with console.log() and I'm proud of it! 😄",
-    availableFor: "Full-time opportunities and freelance projects",
-    motto: "Code, Create, Innovate, Repeat! 🚀"
+    location: "Maharashtra, India 🇮🇳",
+    currentFocus: "AI-powered web applications",
+    techStack: ["React", "Node.js", "MongoDB", "TailwindCSS"],
+    currentlyLearning: ["AI/ML Integration", "Advanced Backend APIs"],
+    funFact: "I debug with console.log() and I'm proud of it! 😄",
+    availableFor: "Full-time opportunities and freelance projects",
+    motto: "Code, Create, Innovate, Repeat! 🚀"
 };
 
 
@@ -251,4 +251,4 @@ Continuous Learner<br>
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
-](https://github.com/jay26027894)
+
