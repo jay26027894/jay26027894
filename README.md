@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there! I'm Jay
+[# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" /> Hey there! I'm Jay
 
 <div align="center">
 
@@ -251,3 +251,4 @@ Continuous Learner<br>
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
 </div>
+](https://github.com/jay26027894)
